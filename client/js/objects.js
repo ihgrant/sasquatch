@@ -38,9 +38,9 @@ function Location(name) {
 	this.name = name;
 }
 
-(function Game() {
-	intialize();
-})(this);
+var Game = function () {
+	// this.intialize();
+};
 
 Game.prototype.initialize = function() {
 	this.hand = new Location('hand');

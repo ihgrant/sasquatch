@@ -1,0 +1,12 @@
+body {
+	font-size: 150%;
+}
+.card {
+	background-color: #ccc;
+	width: 5em;
+	height: 8em;
+}
+.cardinterior {
+	margin: 1em;
+	background-color: #fff;
+}
