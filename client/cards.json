@@ -1,8 +1,10 @@
 {
-	1: {
-		"name": "card 1"
+	"1": {
+		"name": "card 1",
+		"type": "1",
+		"description": "This is the first card."
 	},
-	2: {
+	"2": {
 		"name": "card 2"
 	}
 }

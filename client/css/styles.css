@@ -1,12 +1,29 @@
 body {
-	font-size: 150%;
+/*	font-size: 150%;*/
+	font-family: "Helvetica Neue", "Helvetica", sans-serif;
+	position: relative;
+	margin: 0;
+	padding: 0;
+	background-color: #f3f3f3;
+}
+h1 {
+	font-size: 1.5em;
+	letter-spacing: -1px;
+}
+p {
+	font-weight: 200;
 }
 .card {
-	background-color: #ccc;
-	width: 5em;
-	height: 8em;
+/*	background-color: #ccc;*/
+	width: 14em;
+	height: 23em;
+	float: left;
+	margin: .5em;
+	border: 1em solid #ccc;
+	border-radius: 1em;
+	background-color: #fff;
 }
 .cardinterior {
-	margin: 1em;
 	background-color: #fff;
+	margin: 1em;
 }

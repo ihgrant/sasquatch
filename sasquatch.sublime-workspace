@@ -3,10 +3,86 @@
 	{
 		"selected_items":
 		[
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"proe",
+				"project-nextprev"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "client/js/ui.js",
+			"settings":
+			{
+				"buffer_size": 1409,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/cards.json",
+			"settings":
+			{
+				"buffer_size": 123,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/index.html",
+			"settings":
+			{
+				"buffer_size": 518,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/css/styles.css",
+			"settings":
+			{
+				"buffer_size": 460,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -36,19 +112,138 @@
 	},
 	"file_history":
 	[
-		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/Library/WebServer/Documents/sasquatch/client/cards.json",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/2.curriculum-vitae/page.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.portfolio/3.installation/2.fruitOfTheVine/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.portfolio/4.animation-video-film/15.misplaced/2.misplaced-2/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.portfolio/4.animation-video-film/15.misplaced/1.misplaced-1/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.portfolio/4.animation-video-film/15.misplaced/1.misplaced-1/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.portfolio/4.animation-video-film/15.misplaced/2.misplaced-2/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.portfolio/4.animation-video-film/15.misplaced/category.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.portfolio/4.animation-video-film/15.misplaced/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.portfolio/4.animation-video-film/13.clockwork/2.looping-clockwork/project.txt",
 		"/private/etc/apache2/httpd.conf",
-		"/Users/ian/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/README.md",
-		"/Users/ian/stacey_test/content/4.projects/10.project-1/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.portfolio/4.animation-video-film/12.pomology/category.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.portfolio/1.paper-works/13.pom-pods/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.portfolio/category.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/3.curriculum-vitae/page.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/4.series-IV/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/3.series-III/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/1.series-I/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/2.series-II/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom4-1.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom4-2.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom4-3.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom4-4.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom4-5.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom4-6.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom4-7.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom4-8.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom3-1.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom3-2.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom3-3.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom3-4.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom3-5.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom3-6.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom3-7.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom3-8.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom2-2.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom2-3.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom2-4.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom2-5.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom2-6.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom2-7.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom2-8.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom2-1.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom1-8.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom1-7.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom1-6.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom1-4.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom1-5.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom1-3.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom1-1.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bits/pom1-2.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/3.pom-bisect-2/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/templates/project.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/templates/category.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/public/docs/css/screen.css",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/public/docs/js/common.js",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/templates/page.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/1.paper-works/1.beeeeees/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/1.paper-works/5.rottenFruit/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/5.performance/1.bride/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/1.paper-works/4.rootCritters/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/1.paper-works/3.morbidDelights/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/1.paper-works/2.everythingCollapses/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/3.installation/6.theBooth/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/3.installation/3.natural-history/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/3.installation/5.preservation-museum/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/3.installation/1.birth-decay/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/3.installation/4.orchard/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/15.clockwork/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/15.clockwork/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/14.tiny-bits/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bisect-2/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/1.pom-bisect-1/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/13.strange-wonder/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/11.organ-clock/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/10.internal-workings/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/9.ingestion/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/8.garden/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/7.fruit/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/6.excess-decay/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/5.enclosure/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/4.day-evolution/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/3.cocoon-orchard/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/2.cleveland-vacation/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/1.hunger-artist/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/13.strange-wonder/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/2.cleveland-vacation/project.txt",
+		"/Users/ian/stacey_test/content/5.projects/6.vimeo-project-5/vimeo-embed.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/1.hunger-artist/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/app/asset-types/html.inc.php",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/3.cocoon-orchard/project.txt",
+		"/Users/ian/stacey_test/templates/partials/assets/media.html",
+		"/Users/ian/stacey_test/templates/partials/assets/html.html",
 		"/Users/ian/stacey_test/templates/project.html",
-		"/Users/ian/stacey_test/content/_shared.txt",
-		"/Users/ian/Downloads/stacey-v2.3.0/README.md",
-		"/private/etc/hosts",
-		"/Users/ian/stacey_test/htaccess"
+		"/Library/WebServer/Documents/erinrobinsongrant.com/templates/index.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/1.pom-bisect-1/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/2.pom-bisect-2/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/12.pomology/category.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/9.ingestion/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/8.garden/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/7.fruit/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/6.excess-decay/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/5.enclosure/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/4.day-evolution/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/14.tiny-bits/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/11.organ-clock/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/10.internal-workings/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/5.performance/2.fainneFoirfe-perfectCircle/02.caomhnu-white/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/templates/partials/navigation/category-lists.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/templates/partials/navigation/projects-list.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/templates/partials/navigation/navigation.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/4.animation-video-film/1.hunger-artist/hunger_artist.html",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/5.performance/2.fainneFoirfe-perfectCircle/03.cruthu-red/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/5.performance/2.fainneFoirfe-perfectCircle/category.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/5.performance/2.fainneFoirfe-perfectCircle/01.scrios-black/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/5.performance/3.ingest/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/6.3d/2.re-generate/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/6.3d/1.fruit-tree/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/2.objects/3.fruit-peeps/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/2.objects/5.bones/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/2.objects/6.black-lung/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/2.objects/1.perch/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/6.3d/re-generate/category.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/6.3d/fruit-tree/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/1.paper-works/13.pom_pods/project.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/1.paper-works/3.morbidDelights/category.txt",
+		"/Library/WebServer/Documents/erinrobinsongrant.com/content/1.categories/2.objects/4.canopy/project.txt"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -81,8 +276,471 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "client/js/ui.js",
+					"settings":
+					{
+						"buffer_size": 1409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/cards.json",
+					"settings":
+					{
+						"buffer_size": 123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/index.html",
+					"settings":
+					{
+						"buffer_size": 518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/css/styles.css",
+					"settings":
+					{
+						"buffer_size": 460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -142,6 +800,6 @@
 	"show_open_files": true,
 	"show_tabs": false,
 	"side_bar_visible": true,
-	"side_bar_width": 202.0,
+	"side_bar_width": 287.0,
 	"status_bar_visible": true
 }
