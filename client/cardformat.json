@@ -1,9 +1,18 @@
-{
+"card": {
 	"id": {
 		"name": "",
-		"type": 0,
-		"action": "",
-		"lore": ""
+		"cost": [0, 0, 0], // [population, material, energy]
+		"type": "", // unit, upgrade, event, asset
+		// "action": "",
+		"lore": "",
+		"exhaust": "", // effect of this card being exhausted
+		"keywords": [],
+		"durability": 0,
 	}
+}
 
+"keyword": {
+	"name": {
+		
+	}
 }
